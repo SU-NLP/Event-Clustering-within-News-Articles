@@ -641,8 +641,8 @@ if __name__ == "__main__":
 
 
     # Fine-tuned rewards and penalties.
-    rewards = [1]
-    penalties = [0.9]
+    rewards = [0.8]
+    penalties = [0.8]
 
     for reward in rewards:
       for penalty in penalties:
