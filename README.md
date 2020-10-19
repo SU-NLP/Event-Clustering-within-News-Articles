@@ -1,5 +1,3 @@
 # Event-Clustering-within-News-Articles
 
-Event Clustering within News Articles accepted to AESPEN in LREC 2020.
-
-Faik Kerem Örs, Süveyda Yeniterzi, Reyyan Yeniterzi
+Faik Kerem Örs, Süveyda Yeniterzi and Reyyan Yeniterzi. "Event Clustering within News Articles", <em>Proceedings of the Automated Extraction of Socio-Political Events from News (AESPEN) Workshop as part of the Language Resources and Evaluation Conference (LREC)</em>, 2020. (Proposed system ranked 1st in the shared task)
